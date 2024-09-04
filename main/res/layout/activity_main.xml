@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/white"
+        tools:context=".MainActivity">
+
+        <!-- 텍스트뷰 설정 -->
+
+        <!-- 버튼 설정 -->
+        <TextView
+            android:id="@+id/TextId"
+            style="@style/AppTheme"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="4dp"
+            android:gravity="center"
+            android:text="음식을 추천받으세요!"
+            android:textColor="@android:color/black"
+            android:textSize="24sp"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:layout_editor_absoluteX="0dp" />
+
+        <Button
+            android:id="@+id/BtnId"
+            style="@style/AppTheme.Button"
+            android:layout_width="381dp"
+            android:layout_height="209dp"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/ic_cloud"
+            android:text="음식 추천받기"
+            android:textColor="@android:color/white"
+            android:textSize="18sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHeight_percent="0.3"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintWidth_percent="0.6" />
+
+        <!-- 이미지뷰 설정 -->
+        <ImageView
+            android:id="@+id/CuteImageId"
+            android:layout_width="323dp"
+            android:layout_height="260dp"
+            android:layout_marginTop="172dp"
+            android:layout_marginEnd="44dp"
+            android:src="@drawable/ic_cloud"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

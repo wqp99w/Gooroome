@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 앱의 기본 테마 정의 -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- 기본 폰트 설정 -->
+        <item name="android:fontFamily">@font/maple1</item>
+        <!-- 기본 텍스트 크기 -->
+        <item name="android:textSize">16sp</item>
+        <!-- 기본 텍스트 색상 -->
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <!-- TextInputLayout 스타일 정의 -->
+    <style name="AppTheme.TextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <!-- TextInputLayout 폰트 설정 -->
+        <item name="android:fontFamily">@font/maple2</item>
+        <!-- TextInputLayout 텍스트 크기 -->
+        <item name="android:textSize">14sp</item>
+        <!-- TextInputLayout 텍스트 색상 -->
+        <item name="android:textColorHint">@color/gray</item>
+    </style>
+
+    <!-- 버튼 스타일 정의 -->
+    <style name="AppTheme.Button" parent="Widget.AppCompat.Button">
+        <!-- 버튼 폰트 설정 -->
+        <item name="android:fontFamily">@font/maple1</item>
+        <!-- 버튼 텍스트 크기 -->
+        <item name="android:textSize">18sp</item>
+        <!-- 버튼 텍스트 색상 -->
+        <item name="android:textColor">@color/white</item>
+        <!-- 버튼 배경색 -->
+        <item name="android:background">@color/white</item>
+        <!-- 버튼 패딩 -->
+        <item name="android:paddingVertical">12dp</item>
+        <item name="android:paddingHorizontal">24dp</item>
+        <!-- 버튼 모서리 둥글기 -->
+        <item name="android:radius">8dp</item>
+    </style>
+</resources>
