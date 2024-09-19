@@ -15,6 +15,8 @@
 ## 사용 APi
 
 + 네이버 지역 검색 API
++ 기상청 API
++ 구글 Geocoding API
 
 
 ## 주요 기능
