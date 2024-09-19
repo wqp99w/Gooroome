@@ -25,6 +25,7 @@
 
   <img src="https://github.com/wqp99w/read-me_image/blob/main/ooad/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.jpg" width="600" height="600"/>
 
++ ID 중복 확인이 가능하며, 사용자의 음식 선호도를 입력합니다.
   
 
 ### [로그인]
