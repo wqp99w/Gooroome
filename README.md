@@ -22,24 +22,30 @@
 ## 주요 기능
 
 + 회원가입
+
+  ![회원가입](https://github.com/wqp99w/read-me_image/blob/main/ooad/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.jpg)
+
 + 로그인
+
+  ![회원가입](https://github.com/wqp99w/read-me_image/blob/main/ooad/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.jpg)
+  
 + 사용자의 현재 위치 좌표 구하기
+
+  ![회원가입](https://github.com/wqp99w/read-me_image/blob/main/ooad/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.jpg)
+  
 + 사용자의 현재 위치 날씨 구하기
+
+  ![회원가입](https://github.com/wqp99w/read-me_image/blob/main/ooad/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.jpg)
+  
 + 음식 추천
+
+  ![회원가입](https://github.com/wqp99w/read-me_image/blob/main/ooad/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.jpg)
+  
 + 식당 추천
-+ HEAD Request/Response
 
-  ![겟헤드예시](https://github.com/wqp99w/read-me_image/blob/main/network/get%2Chead.jpg)
+  ![회원가입](https://github.com/wqp99w/read-me_image/blob/main/ooad/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.jpg)
 
-  ![겟헤드샤크예시](https://github.com/wqp99w/read-me_image/blob/main/network/get%EC%83%A4%ED%81%AC.jpg)
   
-+ POST Request/Response
-
-  ![포스트예시](https://github.com/wqp99w/read-me_image/blob/main/network/post.jpg)
-
-  ![포스트샤크예시](https://github.com/wqp99w/read-me_image/blob/main/network/post%EC%83%A4%ED%81%AC.jpg)
-  
-+ PUT Request/Response
 
   
   ![풋예시](https://github.com/wqp99w/read-me_image/blob/main/network/put.jpg)
