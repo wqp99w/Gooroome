@@ -57,7 +57,7 @@
 
   <img src="https://github.com/wqp99w/read-me_image/blob/main/ooad/%EC%B6%94%EC%B2%9C%EB%A1%9C%EA%B7%B82.jpg" width="400" height="150"/>
 
-  <img src="https://github.com/wqp99w/read-me_image/blob/main/ooad/%EC%B6%94%EC%B2%9C%EB%A1%9C%EA%B7%B83.jpg" width="400" height="150"/>
+  <img src="https://github.com/wqp99w/read-me_image/blob/main/ooad/%EC%B6%94%EC%B2%9C%EB%A1%9C%EA%B7%B83.jpg" width="250" height="100"/>
   +
   
 ### [식당 추천]
