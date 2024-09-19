@@ -69,7 +69,7 @@
   
   <img src="https://github.com/wqp99w/read-me_image/blob/main/ooad/%EC%8B%9D%EB%8B%B9%EC%B6%94%EC%B2%9C.jpg" width="300" height="600"/>
 
-  +추천한 가게의 이름과 사이트, 음식 사진을 나타냅니다.
+  + 추천한 가게의 이름과 사이트, 음식 사진을 나타냅니다.
 
 * * * *
 
