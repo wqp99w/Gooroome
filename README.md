@@ -21,7 +21,12 @@
 
 ## 주요 기능
 
-+ GET Request/Response
++ 회원가입
++ 로그인
++ 사용자의 현재 위치 좌표 구하기
++ 사용자의 현재 위치 날씨 구하기
++ 음식 추천
++ 식당 추천
 + HEAD Request/Response
 
   ![겟헤드예시](https://github.com/wqp99w/read-me_image/blob/main/network/get%2Chead.jpg)
