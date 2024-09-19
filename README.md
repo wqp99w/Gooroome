@@ -54,14 +54,22 @@
   + 음식 추천받기 버튼을 누르면 음식을 추천합니다.
 
   <img src="https://github.com/wqp99w/read-me_image/blob/main/ooad/%EC%B6%94%EC%B2%9C%EB%A1%9C%EA%B7%B81.jpg" width="400" height="150"/>
+
+  + 날씨에 따른 음식 종류와 사용자의 선호도에 따른 음식 종류를 각각 선택하여 음식을 추천합니다.
   
 ### [식당 추천]
 
   <img src="https://github.com/wqp99w/read-me_image/blob/main/ooad/%EC%B6%94%EC%B2%9C%EB%A1%9C%EA%B7%B82.jpg" width="400" height="150"/>
 
+  + 추천 받은 음식과 현재 지역 정보를 이용하여 네이버 지역 검색 API를 사용하여 주변 가게를 검색합니다.
+
   <img src="https://github.com/wqp99w/read-me_image/blob/main/ooad/%EC%B6%94%EC%B2%9C%EB%A1%9C%EA%B7%B83.jpg" width="250" height="100"/>
+
+  +추천한 가게 리스트입니다.
   
   <img src="https://github.com/wqp99w/read-me_image/blob/main/ooad/%EC%8B%9D%EB%8B%B9%EC%B6%94%EC%B2%9C.jpg" width="300" height="600"/>
+
+  +추천한 가게의 이름과 사이트, 음식 사진을 나타냅니다.
 
 * * * *
 
