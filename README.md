@@ -27,7 +27,7 @@
 
 ### [로그인]
 
-  ![로그인](https://github.com/wqp99w/read-me_image/blob/main/ooad/%EB%A1%9C%EA%B7%B8%EC%9D%B8.jpg)
+  <img src="https://github.com/wqp99w/read-me_image/blob/main/ooad/%EB%A1%9C%EA%B7%B8%EC%9D%B8.jpg" width="600" height="600"/>
   
 ### [사용자의 현재 위치 좌표 구하기]
 
