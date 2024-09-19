@@ -39,7 +39,7 @@
   
 + 음식 추천
 
-  ![음식추천](https://github.com/wqp99w/read-me_image/blob/main/ooad/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.jpg)
+  ![음식추천](https://github.com/wqp99w/read-me_image/blob/main/ooad/%EC%9D%8C%EC%8B%9D%EC%B6%94%EC%B2%9C%ED%99%94%EB%A9%B4.jpg)
   
 + 식당 추천
 
