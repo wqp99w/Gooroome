@@ -43,7 +43,7 @@
   
 ### [식당 추천]
 
-  ![식당추천로그](https://github.com/wqp99w/read-me_image/blob/main/ooad/%EC%8B%9D%EB%8B%B9%EC%B6%94%EC%B2%9C%EB%A1%9C%EA%B7%B8.jpg)
+  <img src="https://github.com/wqp99w/read-me_image/blob/main/ooad/%EC%8B%9D%EB%8B%B9%EC%B6%94%EC%B2%9C%EB%A1%9C%EA%B7%B8.jpg" width="400" height="400"/>
 
   ![식당추천](https://github.com/wqp99w/read-me_image/blob/main/ooad/%EC%8B%9D%EB%8B%B9%EC%B6%94%EC%B2%9C.jpg)
 
