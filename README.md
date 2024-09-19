@@ -47,10 +47,3 @@
 
   ![식당추천](https://github.com/wqp99w/read-me_image/blob/main/ooad/%EC%8B%9D%EB%8B%B9%EC%B6%94%EC%B2%9C.jpg)
 
-  
-
-  
-  ![풋예시](https://github.com/wqp99w/read-me_image/blob/main/network/put.jpg)
-
-  ![픗샤크예시](https://github.com/wqp99w/read-me_image/blob/main/network/put%EC%83%A4%ED%81%AC.jpg)
-  
